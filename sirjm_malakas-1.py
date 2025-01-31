@@ -22,5 +22,7 @@ def main():
         else:
             os.system("clear||cls")
             print("Please schedule a consultation.")
-
+            
+def addNumbers (a,b):
+    return a+b
 main()
